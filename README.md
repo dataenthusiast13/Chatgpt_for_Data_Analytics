@@ -1,5 +1,5 @@
-# What are the most optimal skills for a data nerd? 🤓
-This project was built for my course, [ChatGPT for Data Analytics](https://www.lukebarousse.com/chatgpt), to uncover the most optimal skills to learn as a data nerd based on real-time data science job posting data.
+# What are the most optimal skills for data professionals? 
+This project was built to uncover the most optimal skills to learn as a data professional based on real-time data science job posting data.
 
 **Data Source:** [datanerd.tech](https://www.datanerd.tech)
 
@@ -11,7 +11,8 @@ The most optimal skills were determined by developing a metric, termed "Skill Mu
 ### 🥇: Python and SQL
 When analyzing the 3 most popular jobs in data science, Python and SQL stick out consistently as two of the most optimal skills. (Note: I also analyzed other titles in data science and they had similar trends)
 
-![](images/optimal_skills_3.png)
+![optimal_skills_3](https://github.com/user-attachments/assets/3f52df4b-e130-4fdc-9054-e21089e9f358)
+
 
 **🔢 Data Analysts:** SQL is a must-have with a median salary of $92,500 and a significant presence in job postings. Python isn't far behind, proving essential in the data toolkit.
 
@@ -46,7 +47,7 @@ $$
 - South America and Africa show **emerging markets**, indicating potential growth areas.
 
 The data job market is primarily concentrated in North America, with significant opportunities across Europe and Asia. 📡📈
-![](images/country.png)  
+![country](https://github.com/user-attachments/assets/a40fbb45-b67b-4683-b366-3c0cffa5bc77)
 
 ### Job Posting Platforms
 
@@ -55,7 +56,7 @@ The data job market is primarily concentrated in North America, with significant
 - **Indeed** and **Recruit.net** are significant players, demonstrating their **global reach**.
 
 LinkedIn’s dominance suggests it’s a critical platform for job seekers in the data field. 🌐💡
-![](images/platform.png)  
+ ![platform](https://github.com/user-attachments/assets/21b9e109-d831-4e71-8351-9e01cd1591fd)
 
 ### Job Titles
 
@@ -65,7 +66,7 @@ LinkedIn’s dominance suggests it’s a critical platform for job seekers in th
 
 The high numbers for foundational roles like Data Analyst and Engineer highlight their importance in the data ecosystem. 🌐🚀
 
-![](images/job_titles.png)
+![job_titles](https://github.com/user-attachments/assets/200247e3-98ac-4db2-99dd-b8b6c9433235)
 
 ## 🛠️ Skill Analysis
 
@@ -77,7 +78,7 @@ The high numbers for foundational roles like Data Analyst and Engineer highlight
   
 Programming prowess, cloud fluency, and visualization proficiency are the pillars of today's data field. 🌐🔍
 
-![](images/skill_count.png)
+![skill_count](https://github.com/user-attachments/assets/ec4181b8-12dc-4796-b916-4d90e7c4cc0c)
 
 ### Skills vs Titles
 
@@ -89,7 +90,7 @@ Programming prowess, cloud fluency, and visualization proficiency are the pillar
 
 The data underscores the importance of a strong foundation in data querying and programming languages. 🖥️✨
 
-![](images/skills_job_titles.png)
+![job_titles](https://github.com/user-attachments/assets/f04dc63d-3dd4-4e35-b63a-d54d2175fec4)
 
 ## 💸 Salary Analysis
 
@@ -100,7 +101,7 @@ The data underscores the importance of a strong foundation in data querying and 
 - There's a long tail extending towards higher salaries, though these cases are less frequent.
 
 This visualization highlights the potential for high earnings in the data field, especially with advanced expertise or roles. 🚀💼
-![](images/salary_year.png)
+![salary_year](https://github.com/user-attachments/assets/e168f2b8-b252-4379-a1a4-28bb257d9347)
 
 ### Missing Salary Data
 - A striking trend: the majority of countries show less than **10%** of job postings include an annual salary in a job postings.
@@ -108,7 +109,8 @@ This visualization highlights the potential for high earnings in the data field,
 - The United States sits just above **5%**, but this still means around **95%** of job listings leave applicants guessing. 🤔💡
 
 The data speaks volumes about the global opacity in salary information, with most job seekers left in the dark. 📉🌐
-![](images/salary_null.png)
+![salary_null](https://github.com/user-attachments/assets/422cfa84-31f7-48e8-95e5-47783c5c09fb)
+
 
 ### Median Salaries for Jobs
 
@@ -119,8 +121,7 @@ The data speaks volumes about the global opacity in salary information, with mos
 - **Cloud Engineer** closes the list, hinting at a competitive but slightly lower earning bracket within the tech field.
 
 This bar chart illustrates the premium placed on senior roles and specialized engineering skills in the data job market. 🔝👩‍💻
-
-![](images/salary_jobs.png)
+![salary_jobs](https://github.com/user-attachments/assets/ea679d15-b99d-4570-900a-938691464ca5)
 
 ### Median Salaries for Skills
 
@@ -131,7 +132,7 @@ This bar chart illustrates the premium placed on senior roles and specialized en
 
 The bar chart clearly aligns high median salaries with specialized tech skills, showing the market's demand for advanced competencies. 🚀📈
 
-![](images/salary_skill.png)
+![salary_skill](https://github.com/user-attachments/assets/4c9f5bd0-9c10-49ee-9b4b-5ca9846fb5f2)
 
 ## 🔝📊 Final Results: Optimal Skills for Data Roles 
 
@@ -156,6 +157,6 @@ The bar chart clearly aligns high median salaries with specialized tech skills, 
 
 Overall, the trend suggests a high value placed on versatile programming skills, proficiency in major cloud services, ability to use advanced visualization tools for insights, and a blend of traditional and modern data processing abilities. Each role requires a unique combination of these skills to meet industry demands and maximize salary potential. 🌟📋
 
-![](images/skill_mult.png)
+![skill_mult](https://github.com/user-attachments/assets/9eef3e97-a010-459a-a8ac-e6b3832f84fd)
 
 Data Source: [datanerd.tech](https://www.datanerd.tech)
